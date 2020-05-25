@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "m/XT0vvr8Yck27GPhePh+QmPHe3KJG6Ep+Z8XDOmgNbAdKVc5rNJJHHs7cQkhfq0e5UFsuNcehuF+HfBHaYe3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kouge\\source\\repos\\DatePickerComponent\\DatePickerComponent\\DatePickerComponent.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kouge\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
